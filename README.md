@@ -15,4 +15,6 @@
 - ASP.NET
 - Python Django
 - Python Flask
+- Java
+- Perl
 - Static Website
