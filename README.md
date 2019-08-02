@@ -8,8 +8,12 @@
 - Nuxt
 - Next
 - Ruby
+- Ember
+- Vue
+- Meteor
 - PHP
-- Angular
+- Angular JS
+- Angular 2+
 - Go
 - Laravel
 - ASP.NET
